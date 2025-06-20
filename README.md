@@ -8,7 +8,6 @@ This project implements a **CORDIC (COordinate Rotation DIgital Computer)** algo
 
 - `cordic.v` - Core CORDIC module
 - `cordic_tb.v` - Testbench for sweeping through an angle range
-- `cordic_output.csv` - Output file containing sine and cosine values
 - `cordic_plot.py` - Python script for plotting and validating output
 
 ---
