@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: IIT Mandi
-// Engineer: Jasnoor Tiwana
+// Engineer: Dark Fury
 // 
 // Create Date: 05/14/2025 12:48:57 PM
 // Design Name: 
